@@ -1,11 +1,12 @@
-## ==**未来的工作量会每天更新至DailyReport.md上==**
+## **未来的工作量会每天更新至DailyReport.md上**
 
 ### 第一篇工作：混部调度
 Globecom出结果：预计8月1号。
 
 | 投稿方向                          | 审稿周期         | 级别         |
 | ----------------------------- | ------------ | ---------- |
-| Frontiers of computer science | 2-3个月左右（不确定） | 2区B刊IF：7.8 |
+| Frontiers of computer science | 2-3个月左右（不确定） | 2区 |
+| Journal of Grid Computing.    | 12周左右      | 2区 |
 
 | timeline | 成果            |
 | -------- | ------------- |
@@ -13,7 +14,7 @@ Globecom出结果：预计8月1号。
 
 
 ### 第二篇工作：Straggler
-预计投稿：IPDPS 26----10月9号
+预计投稿：IPDPS 26----10月9号，Future Generation Computer Systems 2区 
 出结果：明年2月
 
 | 大致timeline | 预计成果                                   |
